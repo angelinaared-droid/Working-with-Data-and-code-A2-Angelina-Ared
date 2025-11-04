@@ -4,7 +4,6 @@
 * [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project status](#project-status) 
@@ -28,7 +27,6 @@ This project was created with:
 * Adjustable note length, velocity, and pitch for variation.
 * Shows how basic coding can be used to create structured music. 
 
-## Screenshots 
 
 ## Setup
 This project was built using TunePad, a Python-based coding environment for music creation.
@@ -56,6 +54,7 @@ The project is fully complete and avaliable to access via the link to Tunepad.
 * Music Theory. (n.d.). Building chords. https://www.musictheory.net/lessons/40 
 * Nowels, K. (2024, July 31). The sound of Apple. Twenty Thousand Hertz. https://www.20k.org/episodes/the-sound-of-apple 
 * TunePad. (n.d.). Learn TunePad. https://learn.tunepad.com
+* TunePad. (n.d.). TunePad documentation.  https://learn.tunepad.com/docs/
 
 ## Contact 
 angelina.ared@student.uts.edu.au 
