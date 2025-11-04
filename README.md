@@ -36,7 +36,7 @@ https://tunepad.com/project/117717
 
 ## Usage 
 Open the link into Tunepad:
-* In TunePad, press Play to hear the composition.
+* In TunePad, press the Play button at the top right corner to hear the composition.
 * Follow the  comments for context of MIDI numbers and strucutre of rythmn. 
 * Song will end at 260 beats and stop. 
 
